@@ -1,0 +1,10 @@
+**/*.md
+**/*.svg
+**/test.ts
+dist/
+package.json
+**/template/*
+tmp/
+.vscode/
+node_modules/
+e2e/
